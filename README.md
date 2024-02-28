@@ -1,5 +1,5 @@
 <img align="center" src="img/logo1.png">
-<h3 align="center">Programmer||Web Developer||Graphic Designe</h3>
+<h3 align="center">Programmer || Web Developer || Graphic Designe</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
