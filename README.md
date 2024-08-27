@@ -8,7 +8,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://systemarzz.netlify.app/" target="_blank">
-    <img src="img/Nav.png" alt="Website" height="50" width="40" />
+    <img src="img/Nav.png" alt="Website" height="45" width="40" />
   </a>
 </p>
 
