@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi,</h3>
+<h1 align="left">Hi👋. </h1>
 <p align = "left">
   Freelance software developer and Information Systems Engineering student, specialized in web application development. I leverage Node.js and TypeScript to create scalable and efficient systems, while ensuring high-performance, secure applications. Experienced in backend and frontend development with a problem-solving mindset.
 </p>
