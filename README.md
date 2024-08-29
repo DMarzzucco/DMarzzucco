@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://systemarzz.netlify.app/" target="_blank">
+  <a href="https://dario-marzzucco.vercel.app/" target="_blank">
     <img src="img/Nav.png" alt="Website" height="45" width="40" />
   </a>
 </p>
