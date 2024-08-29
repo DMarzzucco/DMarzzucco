@@ -1,6 +1,8 @@
-<img align="center" src="img/logo1.png">
-<h3 align="center">FullStack Developer</h3>
 
+<h3 align="center">Hi,</h3>
+<p align = "left">
+  Freelance software developer and Information Systems Engineering student, specialized in web application development. I leverage Node.js and TypeScript to create scalable and efficient systems, while ensuring high-performance, secure applications. Experienced in backend and frontend development with a problem-solving mindset.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dario-marzzucco-597090283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
