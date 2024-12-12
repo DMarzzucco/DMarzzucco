@@ -26,6 +26,24 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
 </span>
 </p>
 <h3 align="left">Connect with me:</h3>
+
+
+<div align="center"> 
+  <a href="drrkermazyxokv@gmail.com">
+    <img src="https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dario-marzzucco-597090283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+  <a href="https://dario-marzzucco.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+ <br/>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dario-marzzucco-597090283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
@@ -35,4 +53,6 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
     <img src="img/Nav.png" alt="Website" height="45" width="40" />
   </a>
 </p>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarzzucco&" alt="dmarzzucco" /></p>
