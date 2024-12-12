@@ -43,16 +43,4 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
 </div>
  <br/>
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dario-marzzucco-597090283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dario-marzzucco.vercel.app/" target="_blank">
-    <img src="img/Nav.png" alt="Website" height="45" width="40" />
-  </a>
-</p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarzzucco&" alt="dmarzzucco" /></p>
