@@ -25,5 +25,3 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
   </a>
 </div>
  <br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarzzucco&" alt="dmarzzucco" /></p>
