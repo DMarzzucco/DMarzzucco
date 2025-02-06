@@ -22,13 +22,7 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
- <br/>
- 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMarzzucco&theme=xcode&hide_border=true" alt="Activity graph">
-</a>
-
- 
+ <br/> 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=DMarzzucco&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DMarzzucco's GitHub Stats" />
@@ -37,3 +31,6 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
   
 </div>
  
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMarzzucco&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
