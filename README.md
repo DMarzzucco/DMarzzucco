@@ -9,8 +9,6 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
 
 </p>
 <h3 align="left">Connect with me:</h3>
-
-
 <div align="center"> 
   <a href="drrkermazyxokv@gmail.com">
     <img src="https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
@@ -25,3 +23,17 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
   </a>
 </div>
  <br/>
+ 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMarzzucco&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
+
+ 
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=DMarzzucco&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DMarzzucco's GitHub Stats" />
+  
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=DMarzzucco&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=5&border_radius=10&show_icons=true&locale=en" alt="DMarzzucco's Most Used Languages" />
+  
+</div>
+ 
