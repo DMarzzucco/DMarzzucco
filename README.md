@@ -32,5 +32,5 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
 </div>
  
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMarzzucco&theme=xcode&hide_border=true" alt="Activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMarzzucco&theme=github&hide_border=true" alt="Activity graph">
 </a>
