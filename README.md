@@ -27,8 +27,6 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
   
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=DMarzzucco&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DMarzzucco's GitHub Stats" />
   
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=DMarzzucco&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=5&border_radius=10&show_icons=true&locale=en" alt="DMarzzucco's Most Used Languages" />
-  
 </div>
  
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
