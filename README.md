@@ -25,7 +25,7 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
  <br/> 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
   
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=DMarzzucco&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=7&border_radius=10&show_icons=true&locale=en" alt="DMarzzucco's Most Used Languages" />
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=DMarzzucco&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=6&border_radius=10&show_icons=true&locale=en" alt="DMarzzucco's Most Used Languages" />
   
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=DMarzzucco&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DMarzzucco's GitHub Stats" />
   
