@@ -1,5 +1,7 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2EE650&height=100&section=header"/>
 <h1 align="left">Hi👋. </h1>
+<br>
+
 <p align = "left">
 I am a software developer with experience in freelance projects and solid knowledge acquired in an Information Systems Engineering degree. I specialize in backend development, with a complete foundation in frontend, and experience in technologies such as TypeScript, C#, Java, PostgreSQL and SQL Server. I work with MVC frameworks oriented to microservices such as NestJS, .NET and Spring Boot.
 
@@ -22,6 +24,4 @@ My focus is on maintaining clean and scalable code, applying SOLID principles an
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
- <br/> 
-
- 
+ <br/>
