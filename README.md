@@ -3,11 +3,13 @@
 <br>
 
 <p align = "left">
-I am a software developer with experience in freelance projects and solid knowledge acquired in an Information Systems Engineering degree. I specialize in backend development, with a complete foundation in frontend, and experience in technologies such as TypeScript, C#, Java, PostgreSQL and SQL Server. I work with MVC frameworks oriented to microservices such as NestJS, .NET and Spring Boot.
+I am a software developer with experience in freelance projects and solid knowledge acquired during my Information Systems Engineering degree. I specialize in backend development with .NET, DevOps, and some frontend development with React and Angular.
 
-In addition, I have knowledge of API monitoring and documentation tools such as Postman and Swagger, as well as container management with Docker.
+I have worked on both monolithic and distributed systems, utilizing clean architecture.
 
-My focus is on maintaining clean and scalable code, applying SOLID principles and design patterns to ensure quality and efficiency in each project. I adapt quickly to changing environments and collaborate effectively with multidisciplinary teams. I work under agile methodologies such as Scrum and Kanban to guarantee optimal organization and comply with timely deliveries.
+In addition, I have knowledge of API monitoring and documentation tools such as Postman and Swagger, as well as container management with Docker. I also have knowledge of messaging systems with RabbitMQ.
+
+I focus on maintaining clean and scalable code, applying SOLID principles and design patterns to ensure quality and efficiency in each project. I adapt quickly to changing environments and collaborate effectively with multidisciplinary teams.
 
 </p>
 <h3 align="left">Connect with me:</h3>
