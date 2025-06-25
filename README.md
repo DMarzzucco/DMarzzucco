@@ -21,9 +21,5 @@ I focus on maintaining clean and scalable code, applying SOLID principles and de
   <a href="https://www.linkedin.com/in/dario-marzzucco-597090283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
-  <a href="https://dario-marzzucco.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
 </div>
  <br/>
