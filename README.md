@@ -2,6 +2,9 @@
 <h1 align="left">Hi👋. </h1>
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DMarzzucco&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+
+
 <p align = "left">
 I am a software developer with experience in freelance projects and solid knowledge acquired during my Information Systems Engineering degree. I specialize in backend development with .NET, DevOps, and some frontend development with React and Angular.
 
