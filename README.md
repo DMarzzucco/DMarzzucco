@@ -14,6 +14,8 @@ In addition, I have knowledge of API monitoring and documentation tools such as 
 
 I focus on maintaining clean and scalable code, applying SOLID principles and design patterns to ensure quality and efficiency in each project. I adapt quickly to changing environments and collaborate effectively with multidisciplinary teams.
 
+---
+
 ##   [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) Nuget Porjects:
 
 
