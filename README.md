@@ -14,6 +14,21 @@ In addition, I have knowledge of API monitoring and documentation tools such as 
 
 I focus on maintaining clean and scalable code, applying SOLID principles and design patterns to ensure quality and efficiency in each project. I adapt quickly to changing environments and collaborate effectively with multidisciplinary teams.
 
+##   [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) Nuget Porjects:
+
+
+
+
+### [SwaggerSchemaExample](https://www.nuget.org/packages/SwaggerSchemaExample.Nuget):
+
+- This library allows you to document models and DTOs with Swagger.
+
+###  [RabbitMQWorkerConsumer](https://www.nuget.org/packages/RabbitMQWorkerConsumer):
+
+- **RabbitMQWorkerConsumer** is a lightweight library designed to simplify the creation of message consumers in .NET applications using RabbitMQ.
+
+
+---
 </p>
 <h3 align="left">Connect with me:</h3>
 <div align="center"> 
@@ -26,3 +41,4 @@ I focus on maintaining clean and scalable code, applying SOLID principles and de
   </a>
 </div>
  <br/>
+
