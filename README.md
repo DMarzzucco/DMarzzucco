@@ -28,7 +28,7 @@ I focus on maintaining clean and scalable code, applying SOLID principles and de
 ###  [RabbitMQWorkerConsumer](https://www.nuget.org/packages/RabbitMQWorkerConsumer):
 
 - **RabbitMQWorkerConsumer** is a lightweight library designed to simplify the creation of message consumers in .NET applications using RabbitMQ.
-- 
+
 ---
 
 </p>
