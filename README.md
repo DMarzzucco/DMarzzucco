@@ -6,11 +6,9 @@
 
 
 <p align = "left">
-I am a software developer with experience in freelance projects and solid knowledge acquired during my Information Systems Engineering degree. I specialize in backend development with .NET, DevOps, and some frontend development with React and Angular.
+I am a system engineer with experience in freelance projects and solid knowledge acquired during my Information Systems Engineering degree in UTN-FRVT. I specialize in backend development with .NET and Spring, DevOps, and some frontend development with React and Angular.
 
 I have worked on both monolithic and distributed systems, utilizing clean architecture.
-
-In addition, I have knowledge of API monitoring and documentation tools such as Postman and Swagger, as well as container management with Docker. I also have knowledge of messaging systems with RabbitMQ.
 
 I focus on maintaining clean and scalable code, applying SOLID principles and design patterns to ensure quality and efficiency in each project. I adapt quickly to changing environments and collaborate effectively with multidisciplinary teams.
 
