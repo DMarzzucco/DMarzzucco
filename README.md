@@ -14,7 +14,7 @@ I focus on maintaining clean and scalable code, applying SOLID principles and de
 
 ---
 
-##   [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) Nuget Projects:
+##   [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) Nuget Packages:
 
 
 
