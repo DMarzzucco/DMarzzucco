@@ -5,12 +5,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DMarzzucco&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=DMarzzucco&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=DMarzzucco&layout=compact&langs_count=8&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=DMarzzucco&layout=compact&langs_count=8&theme=default" height="200px">
-</picture>
-
 <p align = "left">
 I am a system engineer with experience in freelance projects and solid knowledge acquired during my Information Systems Engineering degree in UTN-FRVT. I specialize in backend development with .NET and Spring, DevOps, and some frontend development with React and Angular.
 
