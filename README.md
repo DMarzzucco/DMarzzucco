@@ -8,11 +8,11 @@
 
 ![Top Languages](https://vani-stats.vercel.app/api?username=DMarzzucco&theme=dark)
 
-I am a system engineer with experience in freelance projects and solid knowledge acquired during my Information Systems Engineering degree in UTN-FRVT. I specialize in backend development with .NET and Spring, DevOps, and some frontend development with React and Angular.
+I am a system engineer with experience in freelance projects. I specialize in system development with .NET and Spring, DevOps.
 
 I have worked on both monolithic and distributed systems, utilizing clean architecture.
 
-I focus on maintaining clean and scalable code, applying SOLID principles and design patterns to ensure quality and efficiency in each project. I adapt quickly to changing environments and collaborate effectively with multidisciplinary teams.
+I focus on maintaining clean and scalable code, design patterns to ensure quality and efficiency in each project. I adapt quickly to changing environments and collaborate effectively with multidisciplinary teams.
 
 ---
 
