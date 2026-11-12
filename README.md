@@ -2,12 +2,16 @@
 <h1 align="left">Hi👋. </h1>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DMarzzucco&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=DMarzzucco&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DMarzzucco&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DMarzzucco&theme=github_dark" />
+</p>
 
 <p align = "left">
-
-![Top Languages](./profile/top-langs.svg)
-
 I am a system engineer with experience in freelance projects. I specialize in system development with .NET and Spring, DevOps.
 
 I have worked on both monolithic and distributed systems, utilizing clean architecture.
