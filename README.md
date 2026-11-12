@@ -6,7 +6,7 @@
 
 <p align = "left">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DMarzzucco&layout=donut&theme=onedark&size_weight=0&count_weight=1&hide_border=true)
+![Top Languages](./profile/top-langs.svg)
 
 I am a system engineer with experience in freelance projects. I specialize in system development with .NET and Spring, DevOps.
 
